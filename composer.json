@@ -8,8 +8,5 @@
             "name": "Pavel Peshko",
             "email": "0pashapeshko0@gmail.com"
         }
-    ],
-    "require": {
-        "php": ">=5.6.0"
-    }
+    ]
 }
