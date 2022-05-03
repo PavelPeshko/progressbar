@@ -1,6 +1,7 @@
 {
     "name": "peshko/shippingbar",
     "description": "Magento 2 Module",
+    "minimum-stability": "dev",
     "license": "proprietary",
     "authors": [
         {
