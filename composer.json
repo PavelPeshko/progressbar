@@ -1,6 +1,7 @@
 {
     "name": "peshko/progressbar",
     "description": "Magento 2 Module",
+    "minimum-stability": "stable",
     "license": "proprietary",
     "authors": [
         {
